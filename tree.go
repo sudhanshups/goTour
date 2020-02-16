@@ -1,3 +1,8 @@
+/** 
+https://tour.golang.org/concurrency/7
+Exercise: Equivalent Binary Trees
+*/
+
 package main
 
 import (

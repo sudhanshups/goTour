@@ -1,3 +1,8 @@
+/**
+https://tour.golang.org/concurrency/10
+Exercise: Web Crawler
+*/
+
 package main
 
 import (
